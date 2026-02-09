@@ -52,5 +52,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DJOMATIN-AHO-Christian&theme=radical" alt="Série de contributions" />
 </p>
 
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DJOMATIN-AHO-Christian&show_icons=true&theme=radical&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJOMATIN-AHO-Christian&layout=compact&theme=radical" />
+</p>
+
 
 
