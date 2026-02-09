@@ -38,7 +38,7 @@
 #### **Infrastructure as Code & Orchestration**
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)<!--
-**DJOMATIN-AHO-Christian/DJOMATIN-AHO-Christian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 
