@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🛠 Compétences Techniques
+## Compétences Techniques
 
 ### 🟢 Maîtrisés
 
@@ -44,9 +44,10 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DJOMATIN-AHO-Christian&show_icons=true&theme=radical" />
+</p>
+<p align="center">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DJOMATIN-AHO-Christian&layout=compact&theme=radical" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DJOMATIN-AHO-Christian&theme=radical" />
 </p>
