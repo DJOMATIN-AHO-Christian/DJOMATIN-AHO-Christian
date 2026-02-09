@@ -42,5 +42,15 @@
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DJOMATIN-AHO-Christian&show_icons=true&theme=radical&count_private=true" alt="Statistiques de Christian" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJOMATIN-AHO-Christian&layout=compact&theme=radical&hide=css,html" alt="Langages les plus utilisés" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DJOMATIN-AHO-Christian&theme=radical" alt="Série de contributions" />
+</p>
+
 
 
