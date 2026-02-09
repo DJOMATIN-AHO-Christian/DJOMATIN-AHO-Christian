@@ -57,5 +57,8 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJOMATIN-AHO-Christian&layout=compact&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DJOMATIN-AHO-Christian&theme=radical" />
+</p>
 
 
