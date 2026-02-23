@@ -56,20 +56,6 @@
 
 ![Visiteurs](https://komarev.com/ghpvc/?username=DJOMATIN-AHO-Christian&color=green&style=flat-square&label=VISITEURS)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DJOMATIN-AHO-Christian&color=39d353&style=flat-square&label=PROFIL+VUES" alt="Visiteurs" />
-  <br><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DJOMATIN-AHO-Christian&theme=onedark&column=3&margin-w=15" alt="Trophées de Christian" />
-  </a>
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DJOMATIN-AHO-Christian/DJOMATIN-AHO-Christian/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ### 💡 Citation du jour
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
