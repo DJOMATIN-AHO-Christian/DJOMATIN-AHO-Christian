@@ -16,6 +16,9 @@
 ![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![K8s](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
 
 ---
+[![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=DJOMATIN-AHO-Christian&layout=compact&theme=radical)](https://github.com/DJOMATIN-AHO-Christian?tab=repositories)
+---
+
 
 ### 📊 Statistiques
 <p align="left">
