@@ -43,8 +43,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DJOMATIN-AHO-Christian&theme=dark)](https://git.io/streak-stats)
-
+![Graphique de mes contributions](https://ghchart.rshah.org/DJOMATIN-AHO-Christian)
 
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DJOMATIN-AHO-Christian&show_icons=true&theme=radical" />
 
