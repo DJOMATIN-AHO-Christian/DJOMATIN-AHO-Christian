@@ -1,4 +1,7 @@
 ## Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_LIEN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TON_LIEN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton-email@gmail.com)
 
 ## Compétences Techniques
 
@@ -50,6 +53,16 @@
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DJOMATIN-AHO-Christian&layout=compact&theme=radical" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DJOMATIN-AHO-Christian&theme=radical" />
+
+![Visiteurs](https://komarev.com/ghpvc/?username=DJOMATIN-AHO-Christian&color=green&style=flat-square&label=VISITEURS)
+
+![Snake animation](https://github.com/DJOMATIN-AHO-Christian/DJOMATIN-AHO-Christian/blob/output/github-contribution-grid-snake.svg)
+
+[![Trophées de Christian](https://github-profile-trophy.vercel.app/?username=DJOMATIN-AHO-Christian&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 💡 Citation du jour
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 
 
