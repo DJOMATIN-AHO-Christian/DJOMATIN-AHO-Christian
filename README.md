@@ -46,8 +46,6 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
-![Graphique de mes contributions](https://ghchart.rshah.org/DJOMATIN-AHO-Christian)
-
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DJOMATIN-AHO-Christian&show_icons=true&theme=radical" />
 
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DJOMATIN-AHO-Christian&layout=compact&theme=radical" />
