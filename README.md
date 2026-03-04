@@ -1,4 +1,5 @@
 ## Hi there 👋 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&width=435&lines=Beep+boop...;Initialisation+du+système...;Bonjour+humain!)](https://git.io/typing-svg)
 <p align="left">
   <a href="https://djomatin-aho-christian.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=google-chrome&logoColor=white" alt="Site Perso"></a>
   <a href="https://www.linkedin.com/in/djomatin-aho-christian-69607a223/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
