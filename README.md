@@ -21,7 +21,7 @@
 
 
 ### 📊 Statistiques
-!(https://raw.githubusercontent.com/DJOMATIN-AHO-Christian/snk/output-svg-only/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DJOMATIN-AHO-Christian/DJOMATIN-AHO-Christian/blob/output/github-contribution-grid-snake.svg)
 <p align="left">
   <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DJOMATIN-AHO-Christian&show_icons=true&theme=radical" />
   <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DJOMATIN-AHO-Christian&layout=compact&theme=radical" />
