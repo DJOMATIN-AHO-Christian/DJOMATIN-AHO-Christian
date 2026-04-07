@@ -9,14 +9,15 @@
   </a>
 </div>
 
+<!-- 🌍 TRADUCTEUR AUTOMATIQUE (Google Translate) -->
 <p align="center">
-  <a href="https://djomatin-aho-christian.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=google-chrome&logoColor=white" alt="Site Perso"></a>
-  <a href="https://www.linkedin.com/in/djomatin-aho-christian-69607a223/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/DA__christian"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-  <a href="mailto:djomatinahochristian@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://bsky.app/profile/djomatinahochris.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"></a>
-  <a href="https://gitlab.com/DJOMATIN-AHO-CHRISTIAN"><img src="https://img.shields.io/badge/GitLab-%23330F63.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"></a>
-  <a href="https://huggingface.co/DJO5555"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+  <strong>🌐 Lire ce profil en :</strong><br/>
+  <a href="https://translate.google.com/translate?sl=fr&tl=en&u=https%3A%2F%2Fgithub.com%2FDJOMATIN-AHO-Christian">🇬🇧 English</a> •
+  <a href="https://translate.google.com/translate?sl=fr&tl=es&u=https%3A%2F%2Fgithub.com%2FDJOMATIN-AHO-Christian">🇪🇸 Español</a> •
+  <a href="https://translate.google.com/translate?sl=fr&tl=de&u=https%3A%2F%2Fgithub.com%2FDJOMATIN-AHO-Christian">🇩🇪 Deutsch</a> •
+  <a href="https://translate.google.com/translate?sl=fr&tl=pt&u=https%3A%2F%2Fgithub.com%2FDJOMATIN-AHO-Christian">🇵🇹 Português</a> •
+  <a href="https://translate.google.com/translate?sl=fr&tl=zh-CN&u=https%3A%2F%2Fgithub.com%2FDJOMATIN-AHO-Christian">🇨🇳 中文</a> •
+  <a href="https://translate.google.com/translate?sl=fr&tl=ar&u=https%3A%2F%2Fgithub.com%2FDJOMATIN-AHO-Christian">🇸🇦 العربية</a>
 </p>
 
 ---
