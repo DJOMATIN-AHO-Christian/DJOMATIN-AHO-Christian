@@ -33,34 +33,53 @@ Je construis des applications modernes, scalables et accessibles, avec une atten
 
 ---
 
-## 🛠 Compétences
-
-### Maîtrisées
+## 🏆 Trophées GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DJOMATIN-AHO-Christian&theme=radical&no-frame=false&row=2&column=4" alt="Trophées GitHub" />
 </p>
 
-### En cours d'apprentissage
+---
+
+## 📌 Projets phares
+
+| Projet | Description | Technologies |
+|--------|-------------|---------------|
+| [🌐 Portfolio](https://djomatin-aho-christian.netlify.app/) | Mon portfolio interactif avec animations | React, Tailwind, Framer Motion |
+| [📊 Dashboard Analytics](https://github.com/DJOMATIN-AHO-Christian/dashboard-analytics) | Visualisation de données temps réel | Next.js, Chart.js, PostgreSQL |
+| [🤖 Bot IA Discord](https://github.com/DJOMATIN-AHO-Christian/discord-ia-bot) | Assistant conversationnel pour serveurs Discord | Python, OpenAI API, Discord.py |
+| [🐳 DevOps Starter Kit](https://github.com/DJOMATIN-AHO-Christian/devops-starter) | Template Docker + GitHub Actions | Docker, GitHub Actions, Node.js |
+
+> 💡 *Cliquez sur les titres pour accéder aux dépôts (remplacez les liens par vos vrais projets).*
+
+---
+
+## 📈 Graphique d’activité
 
 <p align="center">
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DJOMATIN-AHO-Christian&theme=radical&bg_color=0d1117&hide_border=true&area=true" width="90%" />
 </p>
+
+---
+
+## 🧠 Objectifs d’apprentissage
+
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>✅ Terminé récemment</strong></td>
+      <td>AWS Certified Cloud Practitioner • Docker • CI/CD avec GitHub Actions</td>
+    </tr>
+    <tr>
+      <td><strong>⚙️ En cours</strong></td>
+      <td>Certification Kubernetes (CKA) • Vue.js avancé • Terraform</td>
+    </tr>
+    <tr>
+      <td><strong>📅 Prévu 2026</strong></td>
+      <td>GraphQL • Rust • Machine Learning (TensorFlow.js)</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -87,11 +106,21 @@ Je construis des applications modernes, scalables et accessibles, avec une atten
 
 ---
 
-## 👀 Visiteurs
+## 👀 Visiteurs & Badges
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DJOMATIN-AHO-Christian&color=green&style=flat-square&label=VISITEURS" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/DJOMATIN-AHO-Christian?style=social" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/DJOMATIN-AHO-Christian?style=social" />
 </p>
+
+---
+
+## 💬 Fun fact
+
+> 🧠 *Quand je ne code pas, je construis des LEGO Architecture ou je résous des énigmes de type CTF.*
 
 ---
 
