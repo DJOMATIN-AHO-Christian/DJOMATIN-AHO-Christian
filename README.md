@@ -54,98 +54,49 @@ Je construis des applications modernes, scalables et accessibles, avec une atten
 
 ---
 
-## 📈 Dernière Activité GitHub
+## 📈 Graphiques GitHub avancés
 
-<!-- Voici un widget qui affiche votre activité récente -->
+### 📅 Contributions 3D
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DJOMATIN-AHO-Christian&theme=radical&bg_color=0d1117&hide_border=true&area=true" width="90%" />
+  <img src="https://raw.githubusercontent.com/DJOMATIN-AHO-Christian/DJOMATIN-AHO-Christian/main/profile-3d-contrib/profile-night-green.svg" width="90%" />
+</p>
+
+> *Si l’image ci-dessus ne s’affiche pas, activez le workflow `profile-3d-contrib` dans votre dépôt (ou supprimez cette section).*
+
+---
+
+### 🔥 Graphique d’activité (daily)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DJOMATIN-AHO-Christian&theme=radical&bg_color=0d1117&hide_border=true&area=true&custom_title=Activité%20GitHub%20(semaines)" width="90%" />
 </p>
 
 ---
 
-## 🏅 Achievements GitHub
+### 📊 Métriques complètes (style dashboard)
 
-<!-- Ce widget liste tous vos badges de succès GitHub -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DJOMATIN-AHO-Christian&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Achievements" />
+  <img src="https://metrics.lecoq.io/DJOMATIN-AHO-Christian?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&people=1&lines=1&repositories=1&introduction=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&repositories=100&repositories.batch=100&repositories.forks=false&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&introduction.title=true&config.timezone=Europe%2FParis" width="90%" />
+</p>
+
+> *Cette image utilise `metrics.lecoq.io` – si elle ne s’affiche pas, générez votre propre badge sur [metrics.lecoq.io](https://metrics.lecoq.io).*
+
+---
+
+### 🧩 Camembert des langages (détaillé)
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DJOMATIN-AHO-Christian&layout=donut&theme=radical&hide_border=true&langs_count=10" width="70%" />
 </p>
 
 ---
 
-## 🌟 Dépôt GitHub le plus populaire
-
-<p align="center">
-  <a href="https://github.com/DJOMATIN-AHO-Christian/dashboard-analytics">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DJOMATIN-AHO-Christian&repo=dashboard-analytics&theme=radical" />
-  </a>
-</p>
-
----
-
-## 📦 Statistiques de dépôts
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Dépôts%20publics-XX-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Forks-XX-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Watchers-XX-blue?style=for-the-badge&logo=github" />
-</p>
-
-> ⚙️ **Note :** Remplacez les `XX` par vos chiffres réels, ou utilisez des badges dynamiques comme `https://img.shields.io/github/stars/DJOMATIN-AHO-Christian`.
-
----
-
-## 📅 Calendrier de contributions isométrique
-
-<!-- Une alternative plus visuelle et stylisée au snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DJOMATIN-AHO-Christian/DJOMATIN-AHO-Christian/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-> 💡 **Astuce :** Pour obtenir un calendrier 3D isométrique (comme un cube), explorez le plugin `isocalendar` du projet **[Metrics](https://github.com/skyzyx/metrics)**.
-
----
-
-## 🧠 Objectifs d’apprentissage
-
-<div align="center">
-  <table>
-    <tr>
-      <td><strong>✅ Terminé récemment</strong></td>
-      <td>AWS Certified Cloud Practitioner • Docker • CI/CD avec GitHub Actions</div>
-    </tr>
-    <tr>
-      <td><strong>⚙️ En cours</strong></div>
-      <td>Certification Kubernetes (CKA) • Vue.js avancé • Terraform</div>
-    </tr>
-    <tr>
-      <td><strong>📅 Prévu 2026</strong></div>
-      <td>GraphQL • Rust • Machine Learning (TensorFlow.js)</div>
-    </tr>
-  </table>
-</div>
-
----
-
-## ✨ Tech Stack Moderne
-
-<!-- Une alternative plus design pour afficher vos compétences, avec des icônes -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,py,postgres,docker,aws,php,vue,kubernetes" />
-</p>
-
----
-
-## 📊 Statistiques GitHub
+## 📊 Statistiques classiques
 
 <div align="center">
   <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DJOMATIN-AHO-Christian&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DJOMATIN-AHO-Christian&layout=compact&theme=radical" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DJOMATIN-AHO-Christian&theme=radical&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=DJOMATIN-AHO-Christian&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -158,6 +109,43 @@ Je construis des applications modernes, scalables et accessibles, avec une atten
 
 ---
 
+## 🧠 Objectifs & apprentissage
+
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>✅ Terminé</strong></td>
+      <td>AWS Cloud Practitioner • Docker • GitHub Actions • PostgreSQL • React</td>
+    </tr>
+    <tr>
+      <td><strong>⚙️ En cours</strong></td>
+      <td>Kubernetes (CKA) • Vue.js • Terraform • Grafana • TypeScript avancé</td>
+    </tr>
+    <tr>
+      <td><strong>📅 2026</strong></td>
+      <td>GraphQL • Rust • TensorFlow.js • WebAssembly</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📬 Activité récente
+
+<!-- GitHub Activity Widget (optionnel) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/commit?username=DJOMATIN-AHO-Christian&theme=radical" width="90%" />
+</p>
+
+<p align="center">
+  <i>🔁 Dernières actions sur GitHub :</i><br/>
+  <img src="https://github.com/DJOMATIN-AHO-Christian/DJOMATIN-AHO-Christian/raw/main/assets/activity.svg" />
+</p>
+
+> *Pour avoir un flux d’activité réel, vous pouvez utiliser [github-activity-readme](https://github.com/Readme-Workflows/recent-activity).*
+
+---
+
 ## 👀 Visiteurs & Badges
 
 <p align="center">
@@ -166,13 +154,15 @@ Je construis des applications modernes, scalables et accessibles, avec une atten
   <img src="https://img.shields.io/github/followers/DJOMATIN-AHO-Christian?style=social" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/DJOMATIN-AHO-Christian?style=social" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/last-commit/DJOMATIN-AHO-Christian/DJOMATIN-AHO-Christian?style=flat-square" />
 </p>
 
 ---
 
 ## 💬 Fun fact
 
-> 🧠 *Quand je ne code pas, je construis des LEGO Architecture ou je résous des énigmes de type CTF.*
+> 🧩 *Je peux résoudre un Rubik's Cube en moins de 2 minutes… et un bug en moins de 5.*  
 
 ---
 
