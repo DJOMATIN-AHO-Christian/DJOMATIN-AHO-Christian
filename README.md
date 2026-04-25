@@ -1,5 +1,6 @@
  ## Hi there 👋 
-[![Visiteurs](https://komarev.com/ghpvc/?username=DJOMATIN-AHO-Christian&color=green&style=flat-square&label=VISITEURS)]
+![Visiteurs](https://komarev.com/ghpvc/?username=DJOMATIN-AHO-Christian&color=green&style=flat-square&label=VISITEURS)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&width=435&lines=👋...;Initialisation+du+système...;Salut!)](https://git.io/typing-svg)
 <p align="left">
   <a href="https://djomatin-aho-christian.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=google-chrome&logoColor=white" alt="Site Perso"></a>
