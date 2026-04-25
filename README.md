@@ -1,3 +1,4 @@
+![Visiteurs](https://komarev.com/ghpvc/?username=DJOMATIN-AHO-Christian&color=green&style=flat-square&label=VISITEURS)
  ## Hi there 👋 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&width=435&lines=👋...;Initialisation+du+système...;Salut!)](https://git.io/typing-svg)
 <p align="left">
@@ -29,4 +30,3 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DJOMATIN-AHO-Christian&theme=radical&hide_border=true)
 
-![Visiteurs](https://komarev.com/ghpvc/?username=DJOMATIN-AHO-Christian&color=green&style=flat-square&label=VISITEURS)
